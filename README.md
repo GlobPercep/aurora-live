@@ -2,6 +2,10 @@
 
 Aurora Live is a cinematic, installable visualization of Earth’s current auroral environment, powered by official NOAA Space Weather Prediction Center data. It opens directly on a 3D Earth, projects the latest OVATION grid over both hemispheres, explains current Kp and solar-wind conditions, and gives cautious local viewing guidance without claiming that an aurora is guaranteed.
 
+**Live app:** [https://globpercep.github.io/aurora-live/](https://globpercep.github.io/aurora-live/)
+
+![QR code for the live Aurora Live app](./public/aurora-live-qr.png)
+
 ## Product highlights
 
 - Live 3D Earth with drag, wheel and pinch controls, current sun-facing illumination, atmosphere, stars, forecast points, twilight guides and quick global/polar/local views.
